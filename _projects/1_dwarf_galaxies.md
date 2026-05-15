@@ -4,7 +4,7 @@ title: Dwarf Galaxy Simulations
 description: Supernova feedback and its effects on the circumgalactic medium
 img: assets/img/projects/dwarf_galaxy.jpg
 importance: 1
-category: current
+category: past
 ---
 
 Dwarf galaxies are the most numerous galaxies in the Universe and serve as powerful laboratories for studying the physics of galaxy formation at small scales. Because of their shallow gravitational potential wells, they are highly sensitive to feedback processes — particularly supernova-driven winds — which can dramatically alter their star formation histories and redistribute gas into the CGM and beyond.

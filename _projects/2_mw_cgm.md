@@ -4,7 +4,7 @@ title: The Extended, Ionized Disk of the Milky Way CGM
 description: Quantifying co-rotation of CGM gas in IllustrisTNG MW analogs
 img: assets/img/projects/mw_cgm.jpg
 importance: 2
-category: current
+category: past
 ---
 
 Is the Milky Way's circumgalactic medium (CGM) organized in a large-scale, rotating, disk-like structure? Observational evidence has long suggested that cool and warm gas in the MW halo preferentially co-rotates with the stellar disk — but the theoretical picture and the full extent of this structure have been unclear. This project, my first-year work with [Prof. Mary Putman](https://astro.columbia.edu/content/mary-putman) at Columbia, tackles this question using a large sample of MW analogs in the IllustrisTNG 50 simulation.

@@ -4,7 +4,7 @@ title: High-Redshift Galactic Outflows
 description: Starburst-driven outflows at z ~ 1.5–2 with KMOS integral field spectroscopy
 img: assets/img/projects/highz_outflows.jpg
 importance: 4
-category: past
+category: undergrad
 ---
 
 At cosmic noon (z ~ 1.5–2), galaxies were forming stars at rates orders of magnitude higher than today. These extreme star formation rates drive powerful galactic-scale outflows that can enrich the IGM with metals, suppress star formation, and shape the mass function of galaxies. Understanding the properties and driving mechanisms of these outflows is central to galaxy formation theory.

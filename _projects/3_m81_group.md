@@ -4,7 +4,7 @@ title: M81 Group Stellar Populations
 description: Tidal interactions and stellar halos in the nearby M81 Group
 img: assets/img/projects/m81_group.jpg
 importance: 3
-category: past
+category: undergrad
 ---
 
 The M81 Group, at a distance of only ~3.6 Mpc, is one of the nearest interacting galaxy groups and offers a rare opportunity to resolve individual stars across multiple interacting systems — including M81, M82, and NGC 3077. The dramatic tidal interactions within the group have produced spectacular streams and bridges of neutral hydrogen, and have likely triggered the starburst in M82.
