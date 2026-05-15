@@ -16,7 +16,7 @@ profile:
     <p>Pupin Hall</p>
     <p>Columbia University</p>
     <p>New York, NY 10027</p>
-    <p>mam2645 [at] columbia.edu</p>
+    <p>mam2645[at]columbia.edu</p>
 
 selected_papers: false
 social: true
