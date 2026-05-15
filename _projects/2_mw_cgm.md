@@ -19,9 +19,31 @@ I analyzed the spatial and kinematic distributions of multiple ion species — H
 
 I also examined the role of satellite galaxies in driving or disrupting co-rotation, finding that satellite contributions to the co-rotating fraction are generally negligible. However, counter-rotating CGMs are often associated with the presence of a massive satellite, suggesting satellites can disrupt the co-rotation structure in some cases.
 
+---
+
+<div class="row mt-3">
+  <div class="col-12">
+    {% include figure.liquid loading="eager" path="assets/img/projects/mw_cgm_column_density.png" title="Column density maps of aligned and non-aligned CGM gas" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Column density maps for an example MW analog (Subhalo ID: 497557; log M&#9733; = 10.68 M&#9737;, SFR = 2.51 M&#9737;/yr) viewed face-on. From left to right: aligned cool gas, non-aligned cool gas, aligned warm gas, and non-aligned warm gas. The dashed circles mark 0.2 and 1.0 R<sub>200c</sub>. The aligned cool gas (left) is strongly concentrated along the disk plane, while the non-aligned component and the warm gas are more isotropically distributed.
+</div>
+
+---
+
 **Key Results**
 
 Using the angular momentum misalignment angle, I find that **63% of Mg&thinsp;II**, 45% of Si&thinsp;IV, 38% of C&thinsp;IV, and 35% of O&thinsp;VI mass along the major axis has kinematics aligned with the galaxy angular momentum axis. Cool, low-ionization gas is the most tightly coupled to the disk rotation.
+
+<div class="row mt-3">
+  <div class="col-12">
+    {% include figure.liquid loading="eager" path="assets/img/projects/mw_cgm_cumulative_mass.png" title="Normalized cumulative ion mass vs angular momentum offset angle" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Normalized cumulative ion mass as a function of angular momentum offset angle θ for all five ion species, shown for two spatial regions (Model 2, Region 1: inner CGM along the major axis; Region 2: full halo). The dashed black line shows the expectation for purely random gas motions. All ion species are significantly skewed toward small θ relative to random — indicating a strongly co-rotating CGM — with the cool low ions (H&thinsp;I, Mg&thinsp;II) showing the tightest alignment. The schematic diagrams on the right illustrate the different geometric models used to define sightline regions.
+</div>
 
 From the mock absorption-line survey, I find that f<sub>EW,corot</sub>(Mg&thinsp;II) ~ 80% and f<sub>EW,corot</sub>(O&thinsp;VI) ~ 60% at ~ 0.5 R<sub>200c</sub>, in good agreement with recent observational work. These results are robust to the choice of definition — both the angular momentum and observational approaches consistently point to a dominant co-rotating component in the cool–warm CGM.
 
