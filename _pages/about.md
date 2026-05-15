@@ -53,7 +53,7 @@ During my second-year project, I worked with Greg Bryan on a project focusing on
 **Other Research:**
 
 - Satellite Quenching Anisotropy (undergrad Nicolas Garcia)
-- CAMELS-LH Stellar-to-Halo Mass Relation Emulator (high school STAR program)
+- CAMELS-LH Stellar-to-Halo Mass Relation Emulator (STAR program)
 - Milky Way Outflows and Inflows in IllustrisTNG 
 - Milky Way Radiation Field and CGM Ionization 
 - Meta-Galactic Background and the H$\alpha$ Disk Extent
