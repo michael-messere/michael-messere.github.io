@@ -30,21 +30,21 @@ latest_posts:
 
 I am a fourth-year PhD student in the [Department of Astronomy](https://www.astro.columbia.edu/) at Columbia University, working with [Greg Bryan](https://www.astro.columbia.edu/content/greg-bryan). My research broadly concerns the circumgalactic medium (CGM) — the diffuse gas that surrounds galaxies and mediates the exchange of mass and energy between the interstellar medium (ISM) and the intergalactic medium (IGM). In particular, I am interested in connecting our understanding of the CGM through both simulation and observational work. 
 
-**Broad Research Interests**
+**Broad Research Interests:**
 
 - Circumgalactic Medium 
 - Cosmological Simulations and Galaxy Feedback
 - Connecting CGM obsrvational work + simulation work  
 
-**First Year Project**
+**First Year Project:**
 
 My first-year project, with [Mary Putman](https://www.astro.columbia.edu/content/mary-putman), used IllustrisTNG simulations to study the kinematic structure of an extended Milky Way CGM. See [Messere et al. 2026a](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M).
 
-**Second Year Project**
+**Second Year Project:**
 
 During my second-year project, I worked with Greg Bryan on a project focusing on on zoom-in dwarf galaxy simulations, exploring how supernovae feedback and their high specific energy winds shape the CGM. This work has been submitted to ApJ. 
 
-**Other Research**
+**Other Research:**
 
 - Satellite Quenching Anisotropy (with undergraduate Nicolas Garcia)
 - CAMELS-LH Stellar-to-Halo Mass Relation (STAR Program)
