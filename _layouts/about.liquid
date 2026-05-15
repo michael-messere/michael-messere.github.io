@@ -2,24 +2,32 @@
 layout: default
 ---
 {% if page.banner_image %}
-  <div class="about-banner" style="background-image: url('{{ page.banner_image | prepend: '/assets/img/' | relative_url }}')">
-    <div class="about-banner-overlay"></div>
-    <div class="about-banner-content container">
-      <h1 class="about-banner-title">
-        {% if site.title == 'blank' %}
-          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-          {{ site.last_name }}
-        {% else %}
-          {{ site.title }}
-        {% endif %}
-      </h1>
-      <p class="about-banner-subtitle">{{ page.subtitle }}</p>
-    </div>
-  </div>
+<style>
+  body {
+    background-image: url('{{ page.banner_image | prepend: '/assets/img/' | relative_url }}') !important;
+    background-size: cover !important;
+    background-position: center 40% !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+  }
+  @media (max-width: 768px) {
+    body { background-attachment: scroll !important; }
+  }
+  .container[role="main"] {
+    background-color: rgba(255, 255, 255, 0.90);
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+  html[data-theme="dark"] .container[role="main"] {
+    background-color: rgba(28, 28, 29, 0.90);
+  }
+</style>
 {% endif %}
 
 <div class="post">
-  {% unless page.banner_image %}
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -31,7 +39,6 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
-  {% endunless %}
 
   <article>
     <div class="about-wrapper">
