@@ -46,12 +46,12 @@ During my second-year project, I worked with Greg Bryan on a project focusing on
 
 **Other Research:**
 
-- Satellite Quenching Anisotropy (with undergraduate Nicolas Garcia)
-- CAMELS-LH Stellar-to-Halo Mass Relation (STAR Program)
+- Satellite Quenching Anisotropy (undergrad Nicolas Garcia)
+- CAMELS-LH Stellar-to-Halo Mass Relation Emulator (high school STAR program)
 - Milky Way Outflows and Inflows in IllustrisTNG 
 - Milky Way Radiation Field and CGM Ionization 
 - Meta-Galactic Background and the H$\alpha$ Disk Extent
 
 **Background**
 
-Before Columbia, I completed my B.S. in Astronomy/Astrophysics and Physics (with a minor in Space Engineering) at the University of Michigan, Ann Arbor. During my undergraduate years I spent four years studying the M81 Group with [Eric Bell](https://lsa.umich.edu/astro/people/faculty/ericbell.html) using Subaru Telescope Hyper Suprime-Cam data, and completed an REU at the University of Copenhagen with [Steven Gillman](https://www.nbi.ku.dk/english/staff/?pure=en/persons/steven-gillman) analyzing starburst-driven outflows using KMOS integral field spectroscopy.
+Before Columbia, I completed my B.S. in Astronomy/Astrophysics and Physics (with a minor in Space Engineering) at the University of Michigan, Ann Arbor. During my undergraduate years I spent four years studying the M81 Group with [Eric Bell](https://sites.lsa.umich.edu/ericbell/) using Subaru Telescope Hyper Suprime-Cam data, and completed an REU at the University of Copenhagen with [Steven Gillman](https://stevengillman.github.io/) analyzing starburst-driven outflows using KMOS integral field spectroscopy.
