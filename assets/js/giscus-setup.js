@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "alshedivat/al-folio",
+    "data-repo": "michael-messere/michael-messere.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
