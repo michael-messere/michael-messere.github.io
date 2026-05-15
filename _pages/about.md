@@ -6,6 +6,8 @@ subtitle: >
   PhD Student, <a href="https://astronomy.columbia.edu" target="_blank">Department of Astronomy</a>, Columbia University<br>
   Advisor: <a href="https://astro.columbia.edu/content/greg-bryan" target="_blank">Greg Bryan</a>
 
+banner_image: hubble_banner.jpg
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -54,4 +56,4 @@ During my second-year project, I worked with Greg Bryan on a project focusing on
 
 **Background**
 
-Before Columbia, I completed my B.S. in Astronomy/Astrophysics and Physics (with a minor in Space Engineering) at the University of Michigan, Ann Arbor. During my undergraduate years I spent four years studying the M81 Group with [Eric Bell](https://sites.lsa.umich.edu/ericbell/) using Subaru Telescope Hyper Suprime-Cam data, and completed an REU at the University of Copenhagen with [Steven Gillman](https://stevengillman.github.io/) analyzing starburst-driven outflows using KMOS integral field spectroscopy.
+Before Columbia, I completed my B.S. in Astronomy/Astrophysics and Physics (with a minor in Space Engineering) at the University of Michigan, Ann Arbor. During this time, I studied the M81 Group with [Eric Bell](https://sites.lsa.umich.edu/ericbell/) using Subaru Telescope Hyper Suprime-Cam data, and completed an REU at the University of Copenhagen with [Steven Gillman](https://stevengillman.github.io/) analyzing starburst-driven outflows using KMOS integral field spectroscopy.
