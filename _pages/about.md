@@ -46,6 +46,10 @@ My first-year project, with [Mary Putman](https://www.astro.columbia.edu/content
 
 During my second-year project, I worked with Greg Bryan on a project focusing on on zoom-in dwarf galaxy simulations, exploring how supernovae feedback and their high specific energy winds shape the CGM. This work has been submitted to ApJ. 
 
+**Current Project:**
+
+- FRBs and their connection to astrophysical parameters in CAMELS 
+
 **Other Research:**
 
 - Satellite Quenching Anisotropy (undergrad Nicolas Garcia)
