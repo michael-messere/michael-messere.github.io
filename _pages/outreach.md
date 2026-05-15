@@ -18,7 +18,7 @@ During my time as a graduate student, I have been involved in mentoring both an 
 The first project involved working with undergraduate Nicolas Garcia on the following:
 
 - Learning how to code in Python and work with both observational and simulation data
-- Inspired by previous literature on anisotropic satellite quenching in more massive halos ([Martínez-Vázquez et al. 2021](https://ui.adsabs.harvard.edu/abs/2021Natur.594..187M/abstract); [Karunakaran et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..13K/abstract)), we investigated whether a similar quenching anisotropy exists in Milky Way-mass halos using the SAGA and ELVES surveys
+- Inspired by previous literature on anisotropic satellite quenching in more massive halos ([Martín-Navarro et al. 2021](https://ui.adsabs.harvard.edu/abs/2021Natur.594..187M/abstract); [Karp et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..13K/abstract)), we investigated whether a similar quenching anisotropy exists in Milky Way-mass halos using the SAGA and ELVES surveys
 - We later extended this to an analogous analysis in IllustrisTNG
 - Nick presented his work at a poster session at Columbia University and is currently writing up his results for publication as an AAS Research Note
 
@@ -38,6 +38,3 @@ In this project — co-mentored with fellow graduate student Max Lee — the stu
 
 ---
 
-## Outreach
-
-*Details on public outreach activities — talks, open houses, Skype a Scientist, and other events — coming soon. If you'd like me to visit your classroom or event, please [get in touch](mailto:mam2645@columbia.edu).*
