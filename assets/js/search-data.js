@@ -77,14 +77,17 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-phd-in-astronomy-at-columbia-university-working-with-prof-greg-bryan-on-cgm-physics-and-dwarf-galaxy-simulations",
           title: 'Started my PhD in Astronomy at Columbia University, working with Prof. Greg Bryan...',
           description: "",
+          section: "News",},{id: "news-paper-submitted-to-apj-on-the-extended-co-rotating-cgm-of-milky-way-analogs-in-illustristng-50-with-mary-putman-ads",
+          title: 'Paper submitted to ApJ on the extended, co-rotating CGM of Milky Way analogs...',
+          description: "",
           section: "News",},{id: "projects-dwarf-galaxy-simulations",
           title: 'Dwarf Galaxy Simulations',
           description: "Supernova feedback and its effects on the circumgalactic medium",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_dwarf_galaxies/";
-            },},{id: "projects-milky-way-cgm-observations",
-          title: 'Milky Way CGM Observations',
-          description: "Probing the Milky Way&#39;s halo using low-galactic-latitude quasar sightlines",
+            },},{id: "projects-the-extended-ionized-disk-of-the-milky-way-cgm",
+          title: 'The Extended, Ionized Disk of the Milky Way CGM',
+          description: "Quantifying co-rotation of CGM gas in IllustrisTNG MW analogs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_mw_cgm/";
             },},{id: "projects-m81-group-stellar-populations",
