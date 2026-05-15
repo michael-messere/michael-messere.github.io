@@ -38,7 +38,7 @@ I am a fourth-year PhD student in the [Department of Astronomy](https://www.astr
 
 **First Year Project**
 
-My first-year project, with [Mary Putman](https://www.astro.columbia.edu/content/mary-putman), used IllustrisTNG simulations to study the kinematic structure of an extended Milky Way CGM. See our [Messere et al. 2026a](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M) for details.
+My first-year project, with [Mary Putman](https://www.astro.columbia.edu/content/mary-putman), used IllustrisTNG simulations to study the kinematic structure of an extended Milky Way CGM. See [Messere et al. 2026a](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M).
 
 **Second Year Project**
 
