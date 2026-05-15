@@ -80,9 +80,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-published-in-apj-mainly-on-the-plane-observing-the-extended-ionized-disks-of-milky-way-analogs-in-illustristng-messere-et-al-2026",
           title: 'Paper published in ApJ — Mainly on the Plane: Observing the Extended, Ionized...',
           description: "",
-          section: "News",},{id: "projects-dwarf-galaxy-simulations",
-          title: 'Dwarf Galaxy Simulations',
-          description: "Supernova feedback and its effects on the circumgalactic medium",
+          section: "News",},{id: "projects-dwarf-galaxy-cgm-amp-sne-feedback",
+          title: 'Dwarf Galaxy CGM &amp;amp; SNe Feedback',
+          description: "How high-specific-energy winds regulate the CGM of dwarf galaxies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_dwarf_galaxies/";
             },},{id: "projects-the-extended-ionized-disk-of-the-milky-way-cgm",
