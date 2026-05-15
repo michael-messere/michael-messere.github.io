@@ -100,11 +100,6 @@ ninja.data = [{
           description: "Starburst-driven outflows at z ~ 1.5–2 with KMOS integral field spectroscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_highz_outflows/";
-            },},{id: "projects-high-specific-energy-winds",
-          title: 'High Specific Energy Winds',
-          description: "Modeling the launch and propagation of high-velocity supernova-driven winds in the CGM",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_specific_energy_winds/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
