@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  PhD Student, <a href="https://astronomy.columbia.edu" target="_blank">Department of Astronomy</a>, Columbia University<br>
-  Advisor: <a href="https://astro.columbia.edu/content/greg-bryan" target="_blank">Greg Bryan</a>
+  PhD Student, Department of Astronomy, Columbia University<br>
+  Advisor: Greg Bryan
 
 banner_image: hubble_banner.jpg
 
