@@ -29,4 +29,4 @@ From the mock absorption-line survey, I find that f<sub>EW,corot</sub>(Mg&thinsp
 
 The typical Milky Way CGM, especially in low-ionization tracers, shows clear evidence of extended, co-rotating structure. This suggests that the extended ionized disk is a generic feature of MW-mass halos, not an artifact of our Galaxy's particular environment or merger history.
 
-This work has been submitted to *The Astrophysical Journal*. See the [Publications](/publications/) page for the full paper.
+This work is published in *The Astrophysical Journal* as [Messere et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M). See also the [Publications](/publications/) page.

@@ -30,7 +30,7 @@ latest_posts:
 
 I am a second-year PhD student in the [Department of Astronomy](https://astronomy.columbia.edu) at Columbia University, working with [Prof. Greg Bryan](https://astro.columbia.edu/content/greg-bryan). My research broadly concerns the circumgalactic medium (CGM) — the diffuse gas that surrounds galaxies and mediates the exchange of matter and energy between the disk and the intergalactic medium.
 
-My first-year project, with [Prof. Mary Putman](https://astro.columbia.edu/content/mary-putman), used IllustrisTNG 50 simulations to study the kinematic structure of the Milky Way CGM. I quantified the co-rotation of CGM gas in ~100 MW analogs — finding that the cool–warm CGM is organized in a large-scale, extended, co-rotating disk-like structure — and produced a paper submitted to *The Astrophysical Journal*. My current work with Prof. Bryan focuses on dwarf galaxy simulations with supernova feedback models, exploring how high specific energy winds shape the CGM at small galaxy masses.
+My first-year project, with [Prof. Mary Putman](https://astro.columbia.edu/content/mary-putman), used IllustrisTNG 50 simulations to study the kinematic structure of the Milky Way CGM. I quantified the co-rotation of CGM gas in ~100 MW analogs — finding that the cool–warm CGM is organized in a large-scale, extended, co-rotating disk-like structure — resulting in a [published paper](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M) in *ApJ* (Messere et al. 2026). My current work with Prof. Bryan focuses on dwarf galaxy simulations with supernova feedback models, exploring how high specific energy winds shape the CGM at small galaxy masses.
 
 **Research Interests**
 

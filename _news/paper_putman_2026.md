@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper submitted to *ApJ* on the extended, co-rotating CGM of Milky Way analogs in IllustrisTNG 50, with Mary Putman. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..100)
+Paper published in *ApJ* — <a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..172M" target="_blank">Mainly on the Plane: Observing the Extended, Ionized Disks of Milky Way Analogs in IllustrisTNG</a> (Messere et al. 2026).
