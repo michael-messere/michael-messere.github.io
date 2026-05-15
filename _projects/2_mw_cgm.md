@@ -30,6 +30,15 @@ I also examined the role of satellite galaxies in driving or disrupting co-rotat
   Column density maps for an example MW analog (Subhalo ID: 497557; log M&#9733; = 10.68 M&#9737;, SFR = 2.51 M&#9737;/yr) viewed face-on. From left to right: aligned cool gas, non-aligned cool gas, aligned warm gas, and non-aligned warm gas. The dashed circles mark 0.2 and 1.0 R<sub>200c</sub>. The aligned cool gas (left) is strongly concentrated along the disk plane, while the non-aligned component and the warm gas are more isotropically distributed.
 </div>
 
+<div class="row mt-3">
+  <div class="col-sm-6 mx-auto">
+    {% include figure.liquid loading="eager" path="assets/img/projects/mw_cgm_spectra.png" title="Mock absorption line spectra" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Median stacked mock absorption line spectra for Mg&thinsp;II, Si&thinsp;IV, C&thinsp;IV, and O&thinsp;VI at projected radii of 0–50% R<sub>200c</sub> along the major axis. Black solid lines show the total spectrum (all gas, θ ≤ 180°); blue dashed lines show the aligned-only spectrum (θ ≤ 30°). The aligned component is consistently redshifted relative to systemic velocity (dashed vertical line), tracing gas that co-rotates with the galaxy disk. The excess absorption in the total spectrum at negative velocities reflects counter-rotating or infalling gas, which becomes more prominent at larger radii and in higher ions.
+</div>
+
 ---
 
 **Key Results**
@@ -46,6 +55,15 @@ Using the angular momentum misalignment angle, I find that **63% of Mg&thinsp;II
 </div>
 
 From the mock absorption-line survey, I find that f<sub>EW,corot</sub>(Mg&thinsp;II) ~ 80% and f<sub>EW,corot</sub>(O&thinsp;VI) ~ 60% at ~ 0.5 R<sub>200c</sub>, in good agreement with recent observational work. These results are robust to the choice of definition — both the angular momentum and observational approaches consistently point to a dominant co-rotating component in the cool–warm CGM.
+
+<div class="row mt-3">
+  <div class="col-12">
+    {% include figure.liquid loading="eager" path="assets/img/projects/mw_cgm_fewcorot.png" title="EW co-rotation fraction vs major axis radius" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Equivalent width co-rotation fraction f<sub>EW,corot</sub> as a function of projected major axis distance (r/R<sub>200c</sub>) for Mg&thinsp;II, Si&thinsp;IV, C&thinsp;IV, and O&thinsp;VI. Lines are colored by minor axis height |z|/R<sub>200c</sub>, with darker colors indicating sightlines closer to the disk plane. Observational data from Nateghi et al. (C&thinsp;II, O&thinsp;VI; dashed) and Kacprzak et al. (Mg&thinsp;II, O&thinsp;VI; points with error bars) are shown for comparison. The simulations reproduce the observed co-rotation fractions remarkably well across ions and radii, supporting the interpretation that the co-rotating disk structure is a robust, generic feature of MW-mass halos.
+</div>
 
 **Conclusion**
 
