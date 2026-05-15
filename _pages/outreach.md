@@ -9,33 +9,35 @@ nav_order: 4
 
 ## Mentoring
 
-I am committed to supporting the next generation of scientists — particularly students from underrepresented backgrounds in STEM. I believe that mentoring is one of the most high-leverage things researchers can do to improve the culture and diversity of our field.
+During my time as a graduate student, I have been involved in mentoring both an undergraduate student and a group of high school students.
 
-### Student Mentoring
+---
 
-*Details on students mentored, programs, and years will be added here. If you are a student interested in research opportunities related to computational astrophysics or CGM physics, please reach out!*
+### Undergraduate Mentoring — Nicolas Garcia (Columbia University)
 
-### Mentoring Philosophy
+The first project involved working with undergraduate Nicolas Garcia on the following:
 
-I aim to provide mentorship that is both scientifically rigorous and personally supportive. I believe in giving students ownership of their projects from the start, meeting them where they are in their training, and helping them build the skills and confidence to pursue their own scientific questions.
+- Learning how to code in Python and work with both observational and simulation data
+- Inspired by previous literature on anisotropic satellite quenching in more massive halos ([Martínez-Vázquez et al. 2021](https://ui.adsabs.harvard.edu/abs/2021Natur.594..187M/abstract); [Karunakaran et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..13K/abstract)), we investigated whether a similar quenching anisotropy exists in Milky Way-mass halos using the SAGA and ELVES surveys
+- We later extended this to an analogous analysis in IllustrisTNG
+- Nick presented his work at a poster session at Columbia University and is currently writing up his results for publication as an AAS Research Note
+
+---
+
+### High School Mentoring — STAR Program (Columbia University)
+
+During my fourth year, I became a mentor through the **Student Training in Astronomy Research (STAR)** program at Columbia University, which aims to expand access to astronomy education. More information on the program can be found in this [news article](https://neighbors.columbia.edu/news/morningside-heights-moon-columbia-star-program-aims-expand-access-astronomy-education-uptown?utm_source=MarketingCloud&utm_medium=email&utm_campaign=20250530_Highlights_Faculty_Staff).
+
+In this project — co-mentored with fellow graduate student Max Lee — the students:
+
+- Learned to code in Python and work with cosmological simulation data
+- Developed skills in reading and digesting scientific papers
+- In the [CAMELS](https://camels.readthedocs.io/) simulation suite, explored properties of individual galaxies and galaxy populations in the Cosmic Variance (CV) set — producing temperature, density, and metallicity profiles of individual galaxies, and stacked profiles and images as a function of halo mass
+- Extended this to the Latin Hypercube (LH) set, where they used an emulator trained on 1000 simulations to ask: *What combination of cosmological and astrophysical parameters in IllustrisTNG, SIMBA, and Astrid best reproduces the stellar-to-halo mass relation (SHMR) of [Behroozi et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.3143B/abstract)?*
+- After identifying the best-fit simulation for each code, the students connected these back to the galaxy properties they had characterized earlier — finding that IllustrisTNG, SIMBA, and Astrid galaxies have strikingly different internal properties despite all producing a good match to the observed SHMR
 
 ---
 
 ## Outreach
 
-Science communication and public engagement are central to my identity as a researcher. I have participated in a variety of outreach activities aimed at bringing astronomy to broad audiences.
-
-### Activities
-
-- **Astronomy on Tap** — *[Placeholder: add date/venue]*
-  Public talk on galaxy formation and the CGM for a general audience.
-
-- **Skype a Scientist** — Connecting with K-12 classrooms across the country to discuss life as an astronomer and current research in galaxy formation.
-
-- **Columbia Astronomy Open House** — Annual event welcoming the public to Pupin Hall for telescope viewing and research demonstrations.
-
-- *Additional activities to be added — if you'd like me to visit your classroom or event, please [get in touch](mailto:mam2645@columbia.edu).*
-
-### Science Communication
-
-I am interested in making cutting-edge astrophysics accessible to non-specialist audiences. I am open to podcast appearances, public lectures, and media inquiries related to galaxy formation, the CGM, and cosmological simulations.
+*Details on public outreach activities — talks, open houses, Skype a Scientist, and other events — coming soon. If you'd like me to visit your classroom or event, please [get in touch](mailto:mam2645@columbia.edu).*
